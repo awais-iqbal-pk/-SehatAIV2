@@ -56,7 +56,7 @@ SehatAIV2/
 ### 1. Backend Setup
 1. `cd backend`
 2. `npm install`
-3. Create `.env` file (see documentation for keys)
+3. Create `.env` file (copy [backend/.env.example](file:///D:/SehatAI_COMPLETE_v2/SehatAIV2/backend/.env.example) and fill in your keys)
 4. `npm start`
 
 ### 2. Mobile App Setup
