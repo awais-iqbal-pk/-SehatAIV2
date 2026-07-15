@@ -1,6 +1,6 @@
 
 
-                                 https://github.com/user-attachments/assets/79e481c6-6689-4b20-b309-ad82d7d26869
+ https://github.com/user-attachments/assets/79e481c6-6689-4b20-b309-ad82d7d26869
 
 # ╔══════════════════════════════════════════════════════════════╗
 # ║            SEHAT AI v2.0 — OFFICIAL DOCUMENTATION            ║
