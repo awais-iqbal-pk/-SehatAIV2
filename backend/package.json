@@ -2,6 +2,11 @@
   "name": "sehat-ai-backend",
   "version": "2.0.0",
   "description": "Sehat AI - Pakistan AI Health Assistant Backend",
+  "author": "Awais Iqbal <awais-iqbal-pk>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/awais-iqbal-pk/-SehatAIV2.git"
+  },
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
